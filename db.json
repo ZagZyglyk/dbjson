@@ -1,29 +1,29 @@
 {
-  - users: [
-    - {
-        userName: 'Phil',
-        email: 'phil@gmail.com',
-        age: 34
+   "users":[
+      {
+         "userName":"Phil",
+         "email":"phil@gmail.com",
+         "age":34
       },
-    - {
-        userName: 'Ivan',
-        email: 'ivan@gmail.com',
-        age: 27
+      {
+         "userName":"Ivan",
+         "email":"ivan@gmail.com",
+         "age":27
       },
-    - {
-        userName: 'Anna',
-        email: 'Anna@gmail.com',
-        age: 24
+      {
+         "userName":"Anna",
+         "email":"Anna@gmail.com",
+         "age":24
       },
-    - {
-        userName: 'Henry',
-        email: 'Henry@gmail.com',
-        age: 67
+      {
+         "userName":"Henry",
+         "email":"Henry@gmail.com",
+         "age":67
       },
-    - {
-        userName: 'Oleg',
-        email: 'maket@gmail.com',
-        age: 44
+      {
+         "userName":"Oleg",
+         "email":"maket@gmail.com",
+         "age":44
       }
-  ]
+   ]
 }
